@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game development
 - 📫 How to reach me Email: spaceccandy@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm not an only child...
+- ⚡ Fun fact: I can wiggle both of my ears, and I started coding at the age of 11?
 
 <!---
 SpaceCCandy/SpaceCCandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
